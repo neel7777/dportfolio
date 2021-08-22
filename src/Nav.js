@@ -24,7 +24,7 @@ const Nav = props => {
               <div className = 'leftbut'>
 
               
-            <a href = 'https://linkedin.com' target = '_blank' rel="noopener noreferrer">
+            <a href = 'https://www.linkedin.com/in/neel-mazumdar/' target = '_blank' rel="noopener noreferrer">
           <img className = 'pics' src = {linkedin} alt = 'linkedin' />
             </a>
             <a href = 'https://github.com/neel7777' target="_blank" rel="noopener noreferrer">
